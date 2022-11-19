@@ -1,5 +1,4 @@
- #include <stdio.h>
- #include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 //the program that finds the distance between two points
 
