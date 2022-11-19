@@ -6,10 +6,12 @@ int main(){
     //the program that finds the distance between two points
 
     float x1, y1, x2, y2, gdistance;
-    printf("Input first points x coordinate: ");
+    printf("Input first points x1 coordinate: ");
     scanf("%f", &x1);
-    printf("Input first points y coordinate: ");
+    //to check the value of x1
+    printf("Input first points y1 coordinate: ");
     scanf("%f", &y1);
+    // to check the value of y1
     printf("Input second points x coordinate: ");
     scanf("%f", &x2);
     printf("Input second points y coordinate: ");
