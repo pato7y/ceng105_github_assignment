@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main(){
-    printf("Hello");
+    printf("Hello\n");
     //the program that finds the distance between two points
 
     float x1, y1, x2, y2, gdistance;
